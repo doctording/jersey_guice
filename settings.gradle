@@ -1,0 +1,3 @@
+rootProject.name = 'jersey_guice'
+include 'learn_guice'
+include 'learn_named'
